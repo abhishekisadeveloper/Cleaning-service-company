@@ -20,3 +20,11 @@ To view the web page, simply open the index.html file in a web browser.
 
 Add additional pages (e.g., Services, About Us, Contact Us)
 Implement responsive design for better viewing on different devices
+
+**Social Links**
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-18209825b/)
+
+[You Tube](https://www.youtube.com/@Softcode8)
+
+
